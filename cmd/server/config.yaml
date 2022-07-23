@@ -1,8 +1,0 @@
-appconfig:
-  mode: prod
-  accesslogfile: access_dbapp
-  host: "localhost"
-  logfile: gamelogs
-  logfolder: /tmp/applog/cloud-application-in-golang 
-  loglevel: info
-  port: 8080 
